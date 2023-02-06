@@ -311,4 +311,93 @@ height: 700px;
         width: 50%;
     }
   }
+
+
 /* work exprience  end  */
+
+
+/* Acheivement start here */
+.acheivement-contact{
+    padding: 1% 7%;
+    background-color: black;
+    color: white;
+    margin: 10px 5px;
+   
+  
+}
+.acheivement-contact{
+    content: '';
+    display: table;
+    clear: both;
+}
+.contact-me{
+    text-align: center;
+}
+.contact-me input,textarea{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    resize: none ;
+  
+ 
+}
+.contact-me button{
+    border: none;
+   border-radius: 5px;
+   background-color:yellow;
+   font-size: 1rem;
+   font-weight: bold;
+   padding: 5px;
+   margin: 10px ;
+
+
+}
+.contact-link{
+    text-align: center;
+}
+.media-button .Button-size{
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 32px;
+    padding: 5px;
+    margin:10px ;
+    
+}
+.Button-size:hover{
+    background-color: gray;
+}
+
+/* Acheivement end here  here */
+
+/*footer start from here*/
+.footer{
+    background-color: rgb(160, 95, 146);
+    text-align: center;
+  
+}
+
+
+.footer .foother_menu{
+
+}
+.footer{
+    display: table;
+    content: '';
+    clear: both;
+}
+
+.footer .footer_dec{
+
+}
+
+
+
+
+
+
+/*footer start from here*/
